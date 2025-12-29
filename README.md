@@ -18,3 +18,45 @@
 ## 🛠️ Tech Stack
 
 **Languages**
+Java | JavaScript | TypeScript | SQL
+
+**Frontend**
+React.js | React Native | Expo | HTML | CSS
+
+**Backend**
+Node.js | Express.js | REST APIs
+
+**Database**
+PostgreSQL | MySQL
+
+**DevOps & Tools**
+Git | GitHub | Docker | GitHub Actions | Postman
+
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Santosh-Raj-Choudhary?theme=dark&font=Baloo&ext=contest)
+
+🔗 **LeetCode Profile:**  
+👉 https://leetcode.com/u/Santosh-Raj-Choudhary/
+
+---
+
+## 📈 GitHub Stats
+
+![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantoshRajChoudhary&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshRajChoudhary&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/santosh-raj-90174019b/
+- 🧠 **LeetCode:** https://leetcode.com/u/Santosh-Raj-Choudhary/
+- 📧 **Email:** chsantoshraj@gmail.com
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
