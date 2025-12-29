@@ -43,6 +43,14 @@ Git | GitHub | Docker | GitHub Actions | Postman
 
 ---
 
+## 📊 GFG Stats
+
+![GFG](https://img.shields.io/badge/GeeksforGeeks-Active-brightgreen)
+
+🔗 **GFG Profile:**
+👉 https://www.geeksforgeeks.org/profile/chsantos036?tab=activity
+
+---
 
 ## 🤝 Connect With Me
 
