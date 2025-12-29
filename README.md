@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Santosh Raj Choudhary
 
-<!--
-**SantoshRajChoudhary/SantoshRajChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack & Mobile Application Developer**  
+💡 Passionate about building scalable products with clean architecture  
+🎯 Actively preparing for **SDE / Full-Stack roles**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **React Native Wallet Application**
+- 🌱 Learning **System Design, Advanced React & Backend Scalability**
+- 💬 Ask me about **Java, React, Node.js, React Native, SQL**
+- ⚡ Fun fact: I enjoy solving problems more than writing boilerplate 😄
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
